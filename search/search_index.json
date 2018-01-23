@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Ultimate Docker Bootcamp\n\n\n\n\n Chapter 1: Introduction to Docker (TBA) \n\n\n Chapter 2: Setting up Learning Environment (TBA) \n\n\nChapter 3: Ad Hoc Server Management  Management\n\n\n Chapter 4: Modules - The Batteries Included \n\n\n Chapter 5: Playbooks - Learning to Write Infrastructure as a Code \n\n\nChapter 6: Working with Roles \n\n\nChapter 7: Variables and Templates\n\n\nChapter 8: Control Structures\n\n\n\n\nLicense (CC-BY-NC-ND)\n\n\nUltimate Ansible Bootcamp\n by \nSchool of Devops\n is licensed under a \nCreative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License\n.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#ultimate-docker-bootcamp", 
+            "text": "Chapter 1: Introduction to Docker (TBA)    Chapter 2: Setting up Learning Environment (TBA)   Chapter 3: Ad Hoc Server Management  Management   Chapter 4: Modules - The Batteries Included    Chapter 5: Playbooks - Learning to Write Infrastructure as a Code   Chapter 6: Working with Roles   Chapter 7: Variables and Templates  Chapter 8: Control Structures", 
+            "title": "Ultimate Docker Bootcamp"
+        }, 
+        {
+            "location": "/#license-cc-by-nc-nd", 
+            "text": "Ultimate Ansible Bootcamp  by  School of Devops  is licensed under a  Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License .", 
+            "title": "License (CC-BY-NC-ND)"
+        }, 
+        {
+            "location": "/setup/", 
+            "text": "", 
+            "title": "Setting up the Environment"
+        }, 
+        {
+            "location": "/getting-started/", 
+            "text": "", 
+            "title": "Launching and Operating Containers"
+        }, 
+        {
+            "location": "/dockerising_apps/", 
+            "text": "", 
+            "title": "Packaging your Applications"
+        }, 
+        {
+            "location": "/networking/", 
+            "text": "", 
+            "title": "Docker Networking"
+        }, 
+        {
+            "location": "/volumes/", 
+            "text": "", 
+            "title": "Docker Storage"
+        }, 
+        {
+            "location": "/compose/", 
+            "text": "", 
+            "title": "Launching Multi Container Apps with Compose"
+        }, 
+        {
+            "location": "/registry/", 
+            "text": "", 
+            "title": "Setting up a Docker Registry"
+        }, 
+        {
+            "location": "/logging/", 
+            "text": "", 
+            "title": "Docker Logging"
+        }, 
+        {
+            "location": "/monitoring/", 
+            "text": "", 
+            "title": "Docker Monitoring"
+        }, 
+        {
+            "location": "/ecosystem/", 
+            "text": "", 
+            "title": "Eco System"
+        }, 
+        {
+            "location": "/troubleshooting/", 
+            "text": "", 
+            "title": "Troubleshooting Techniques"
+        }
+    ]
+}
