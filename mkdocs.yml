@@ -1,0 +1,19 @@
+site_name: Ultimate Docker Bootcamp
+pages:
+  - Home: index.md
+  - Bootcamp:
+    - Setting up the Environment: "setup.md"
+    - Launching and Operating Containers : "getting-started.md"
+    - Packaging your Applications: "dockerising_apps.md"
+    - Docker Networking: "networking.md"
+    - Docker Storage: "volumes.md"
+    - Launching Multi Container Apps with Compose: "compose.md"
+  - Additional Topics :
+    - Setting up a Docker Registry: "registry.md"
+    - Docker Logging: "logging.md" 
+    - Docker Monitoring: "monitoring.md"
+    - Eco System: "ecosystem.md" 
+  - Troubleshooting:
+    - Troubleshooting Techniques: "troubleshooting.md"
+docs_dir: chapters
+theme: readthedocs
